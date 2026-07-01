@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%">
+  <img src="./assets/Banner_github.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Atharva Gajbhiye</h1>
