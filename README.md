@@ -1,53 +1,64 @@
 <p align="center">
-  <img src="Banner_github.png" width="100%" alt="Atharva Banner"/>
+  <img src="Banner_github.png" alt="Atharva Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋 I'm Atharva Gajbhiye</h1>
+<h1 align="center">Hi 👋, I'm Atharva Gajbhiye</h1>
 
 <h3 align="center">
 Computer Engineering Student • Building Real-World Software • Exploring AI & Backend Systems
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=58A6FF&lines=Building+AI-Powered+Applications;Learning+Backend+Engineering;Java+%7C+React+%7C+Node.js;Always+Learning+Something+New+🚀" />
-</p>
-
-<p align="center">
-
-<a href="https://github.com/atharva-21tootop">
-<img src="https://komarev.com/ghpvc/?username=atharva-21tootop&style=for-the-badge"/>
-
-</a>
-
+Building software that solves real-world problems through code, curiosity, and continuous learning.
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
 ```java
-class Atharva {
+public class Atharva {
 
     String education = "B.Tech Computer Engineering";
 
     String college = "MIT Academy of Engineering";
 
-    String interests[] = {
-        "Backend Development",
+    String location = "Pune, India";
+
+    String[] interests = {
+        "Full-Stack Development",
+        "Backend Engineering",
         "Artificial Intelligence",
         "System Design",
         "Cyber Security",
         "Open Source"
     };
 
-    String currentlyLearning[] = {
+    String[] currentlyLearning = {
         "Java DSA",
         "Docker",
         "AWS",
-        "Kubernetes",
         "Redis",
-        "AI Agents"
+        "Kubernetes",
+        "AI Agents",
+        "Model Context Protocol"
     };
+
+    void dailyRoutine() {
+
+        while(true){
+
+            learn();
+
+            build();
+
+            improve();
+
+            repeat();
+
+        }
+
+    }
 
 }
 ```
@@ -59,138 +70,116 @@ class Atharva {
 ### Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=java,js,python,mysql"/>
-
 </p>
 
 ### Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
 </p>
 
 ### Backend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
-
 </p>
 
 ### Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
-
 </p>
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-## 🚀 Micro Internship Portal
+## 🤖 Micro Internship Portal
 
-> AI-powered internship platform connecting students with organizations.
+AI-powered internship platform connecting students with organizations.
 
-### Highlights
+### Features
 
-- 🤖 AI Recommendation Engine
+- AI-powered internship recommendations
+- Student Dashboard
+- Organization Dashboard
+- Admin Panel
+- Firebase Authentication
+- Role-Based Access Control
+- Responsive UI
+- REST API Integration
 
-- 🔐 Authentication
+**Tech Used**
 
-- 👨‍🎓 Student Dashboard
-
-- 🏢 Organization Dashboard
-
-- 👨‍💼 Admin Panel
-
-- 📱 Responsive UI
+`React` • `Node.js` • `Firebase` • `Express.js` • `AI`
 
 ---
 
 ## 🏠 Smart Settle
 
-> Hostel discovery platform helping students find nearby accommodations.
+A hostel discovery platform helping students find nearby accommodations.
 
 ### Features
 
-- Responsive Design
-
 - Search & Filter
+- Responsive Design
+- Clean UI
+- Mobile Friendly
 
-- User-friendly Interface
+**Tech Used**
 
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=atharva-21tootop&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-21tootop&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=atharva-21tootop&theme=tokyonight"/>
-
-</p>
+`HTML` • `CSS` • `JavaScript`
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=atharva-21tootop&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
+# 📚 Current Learning
 
 - ☕ Java & Advanced DSA
-
-- ⚙️ Backend Development
-
-- ☁️ AWS Cloud
-
+- ⚙ Backend Development
+- 🧠 System Design
 - 🐳 Docker
-
+- ☁ AWS
 - ☸ Kubernetes
-
 - 🔴 Redis
-
 - 🤖 AI Agents
-
-- 🧠 Model Context Protocol (MCP)
+- 🔗 Model Context Protocol (MCP)
 
 ---
 
 # 🎯 Goals for 2026
 
 - ✅ Become proficient in Java
-
-- ✅ Build production-ready backend systems
-
-- 🚀 Contribute to Open Source
-
-- ☁️ Learn Cloud & DevOps
-
-- 🤖 Build AI-powered SaaS Projects
-
-- 💼 Crack a Product-Based Company Internship
+- ✅ Master Data Structures & Algorithms
+- ✅ Build Production-Ready Backend Systems
+- ✅ Learn Cloud & DevOps
+- ✅ Contribute to Open Source
+- ✅ Build AI-Powered SaaS Projects
+- ✅ Crack a Product-Based Company Internship
 
 ---
 
-# 🤝 Let's Connect
+# 🏆 Certifications & Learning
+
+- Cisco Networking Academy – Cyber Security
+- Cisco Networking Academy – Python Essentials
+- Anthropic – AI Fluency
+- Anthropic – Claude Code
+- Anthropic – Model Context Protocol (MCP)
+- NVIDIA – Fundamentals of Deep Learning
+- L&T EduTech – IoT Architectural Engineering
+
+---
+
+# 🌱 Philosophy
+
+> "Learn. Build. Improve. Repeat."
+
+I believe the best way to learn software engineering is by building projects, experimenting with new technologies, solving real-world problems, and continuously improving every day.
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
 
@@ -202,11 +191,17 @@ class Atharva {
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+<a href="mailto:atharvagajbhiye21@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </p>
 
 <p align="center">
 
-📧 atharvagajbhiye21@gmail.com
+📍 Pune, Maharashtra, India
+
+📧 **atharvagajbhiye21@gmail.com**
 
 </p>
 
@@ -214,6 +209,8 @@ class Atharva {
 
 <p align="center">
 
-⭐ If you like my projects, consider giving them a star!
+### ⭐ Thanks for visiting my GitHub profile!
+
+*"Turning ideas into real-world software, one project at a time."*
 
 </p>
