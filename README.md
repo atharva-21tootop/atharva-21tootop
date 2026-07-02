@@ -1,113 +1,132 @@
 <p align="center">
-  <img src="Banner_github.png" alt="Banner" width="100%">
+  <img src="Banner_github.png" width="100%" alt="Atharva Banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Atharva Gajbhiye</h1>
+<h1 align="center">Hi 👋 I'm Atharva Gajbhiye</h1>
+
+<h3 align="center">
+Computer Engineering Student • Building Real-World Software • Exploring AI & Backend Systems
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Building+Full-Stack+Web+Applications;Exploring+AI+%26+Backend+Systems;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=58A6FF&lines=Building+AI-Powered+Applications;Learning+Backend+Engineering;Java+%7C+React+%7C+Node.js;Always+Learning+Something+New+🚀" />
+</p>
+
+<p align="center">
+
+<a href="https://github.com/atharva-21tootop">
+<img src="https://komarev.com/ghpvc/?username=atharva-21tootop&style=for-the-badge"/>
+
+</a>
+
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-🎓 Computer Engineering Student at MIT Academy of Engineering (MITAOE)
+```java
+class Atharva {
 
-🚀 Passionate about building real-world software solutions.
+    String education = "B.Tech Computer Engineering";
 
-🤖 Exploring AI, LLMs and AI-powered applications.
+    String college = "MIT Academy of Engineering";
 
-💻 Interested in Backend Development and System Design.
+    String interests[] = {
+        "Backend Development",
+        "Artificial Intelligence",
+        "System Design",
+        "Cyber Security",
+        "Open Source"
+    };
 
-🔐 Learning Cybersecurity and Secure Software Development.
+    String currentlyLearning[] = {
+        "Java DSA",
+        "Docker",
+        "AWS",
+        "Kubernetes",
+        "Redis",
+        "AI Agents"
+    };
 
-🌱 Always learning something new.
+}
+```
 
 ---
 
-# 🚀 Current Focus
-
-- Full-Stack Web Development
-- Backend Systems
-- AI Applications
-- Java
-- DSA
-- Cloud Computing
-- Open Source
-
----
-
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+<img src="https://skillicons.dev/icons?i=java,js,python,mysql"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+<p>
 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css"/>
 
----
+</p>
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+<p>
 
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
 
----
-
-### Database
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
-
----
+</p>
 
 ### Tools
 
-Git • GitHub • VS Code • Postman • Firebase • Vercel • Render
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
+
+</p>
 
 ---
 
-# 📌 Featured Projects
+# 🌟 Featured Projects
 
-### 🚀 Micro Internship Portal
+## 🚀 Micro Internship Portal
 
-AI-powered internship platform connecting students with organizations using role-based dashboards, authentication and AI recommendations.
+> AI-powered internship platform connecting students with organizations.
 
----
+### Highlights
 
-### 🏠 Smart Settle
+- 🤖 AI Recommendation Engine
 
-A web platform helping students discover nearby hostels with a clean and responsive UI.
+- 🔐 Authentication
 
----
+- 👨‍🎓 Student Dashboard
 
-# 📚 Currently Learning
+- 🏢 Organization Dashboard
 
-- Java DSA
-- System Design
-- Docker
-- AWS
-- Kubernetes
-- Redis
-- AI Agents
-- MCP
+- 👨‍💼 Admin Panel
+
+- 📱 Responsive UI
 
 ---
 
-# 📊 GitHub Stats
+## 🏠 Smart Settle
+
+> Hostel discovery platform helping students find nearby accommodations.
+
+### Features
+
+- Responsive Design
+
+- Search & Filter
+
+- User-friendly Interface
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
@@ -116,10 +135,6 @@ A web platform helping students discover nearby hostels with a clean and respons
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-21tootop&layout=compact&theme=tokyonight"/>
 
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -133,42 +148,72 @@ A web platform helping students discover nearby hostels with a clean and respons
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=atharva-21tootop&theme=tokyonight&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=atharva-21tootop&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
 ---
 
-# 🎯 2026 Goals
+# 📚 Currently Learning
 
-✅ Master Java
+- ☕ Java & Advanced DSA
 
-✅ Master Backend Development
+- ⚙️ Backend Development
 
-⬜ Learn Docker
+- ☁️ AWS Cloud
 
-⬜ Learn Kubernetes
+- 🐳 Docker
 
-⬜ Learn AWS
+- ☸ Kubernetes
 
-⬜ Contribute to Open Source
+- 🔴 Redis
 
-⬜ Build Production-Level AI Applications
+- 🤖 AI Agents
+
+- 🧠 Model Context Protocol (MCP)
 
 ---
 
-# 🌐 Connect With Me
+# 🎯 Goals for 2026
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/atharva-gajbhiye-3545073a6)
+- ✅ Become proficient in Java
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/atharva-21tootop)
+- ✅ Build production-ready backend systems
+
+- 🚀 Contribute to Open Source
+
+- ☁️ Learn Cloud & DevOps
+
+- 🤖 Build AI-powered SaaS Projects
+
+- 💼 Crack a Product-Based Company Internship
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/atharva-gajbhiye-3545073a6">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/atharva-21tootop">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+<p align="center">
 
 📧 atharvagajbhiye21@gmail.com
+
+</p>
 
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+⭐ If you like my projects, consider giving them a star!
 
 </p>
